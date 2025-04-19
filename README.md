@@ -2,4 +2,4 @@
 ## Pobierz
 ▶ [clip_notifier.zip](../../releases/latest/download/clip_notifier.zip)
 
-**Hasło do archiwum:** ClipNotifier  
+**Hasło do archiwum:** 1111
